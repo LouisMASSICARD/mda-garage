@@ -1,8 +1,0 @@
-@startuml
-
-[*] --> Closed
-Closed --> Opened : gears turned [closed] / open
-
-Opened --> Closed : gears turned [opend] / close
-
-@enduml
