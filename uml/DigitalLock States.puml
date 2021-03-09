@@ -1,0 +1,8 @@
+@startuml
+
+[*] --> Locked
+Locked --> Unlocked : open [key valid] / unlock
+
+Unlocked --> Locked : close / lock
+
+@enduml
