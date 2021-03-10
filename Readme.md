@@ -24,3 +24,14 @@ Garage for storing expensive cars, like Porsche, Aston Martin, Lamborghini, etc.
 - Backend service with exposed API
 - Optional - Frontend App running in a browser
 
+    
+    - generate code from existing diagrams
+    - read the MOF spec, at least on part of it
+    
+    - read the http://ecariou.perso.univ-pau.fr/cours/idm/cours-meta.pdf , at least on part of it
+    
+    - implement any of the use case diagrams
+    
+    - create activity diagram
+    
+    - create state diagram
