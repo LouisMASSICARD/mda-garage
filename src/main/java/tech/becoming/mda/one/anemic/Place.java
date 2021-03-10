@@ -1,6 +1,6 @@
 package tech.becoming.mda.one.anemic;
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
+import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -12,6 +12,7 @@ import javax.persistence.*;
 @Getter
 @Setter
 @Builder
+@AllArgsConstructor
 @NoArgsConstructor
 public class Place {
 
